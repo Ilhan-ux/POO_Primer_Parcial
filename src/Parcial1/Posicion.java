@@ -35,7 +35,7 @@ public class Posicion {
             System.out.println("No se encontro");
         } else {
         }
-        System.err.println("la posicion de: " + n + "es" + pos);
+        System.err.println("la posicion de: " + n + " es " + pos);
 
     }
 
